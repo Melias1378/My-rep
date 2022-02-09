@@ -12,3 +12,4 @@
 ||levante-emv.com^
 ||rtve.es^
 ||squarespace.com^
+||yarportal.ru^
