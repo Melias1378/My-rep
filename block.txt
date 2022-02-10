@@ -13,3 +13,4 @@
 ||rtve.es^
 ||squarespace.com^
 ||yarportal.ru^
+||mysku.ru^
